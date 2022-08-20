@@ -2,14 +2,14 @@
 
 * [Android](#android)
 * [C](#c)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [CodeIgniter](#codeigniter)
 * [Emacs](#emacs)
 * [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
-* [HTML & CSS](#html-css)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Node.js](#nodejs)
@@ -21,8 +21,8 @@
 * [React](#react)
 * [Solidity](#solidity)
 * [TypeScript](#typescript)
-  * [Angular](#angular)
-  * [Deno](#deno)
+    * [Angular](#angular)
+    * [Deno](#deno)
 * [Vue](#vue)
 
 
@@ -37,12 +37,12 @@
 * [Belajar Pemrograman C untuk Pemula](https://www.petanikode.com/tutorial/c/) - Ahmad Muhardian (:construction: *in process*)
 
 
-### C Sharp
+### <a id="csharp"></a>C\#
 
 * [Menguasai Pemrograman Berorientasi Objek Dengan Bahasa C#](https://mahirkoding.id/ebook-pemrograman-berorientasi-objek-c-pdf/)
 
 
-<h3 id="cpp">C++</h3>
+### <a id="cpp"></a>C++
 
 * [Belajar C++ Dasar Bahasa Indonesia](https://github.com/kelasterbuka/CPP_dasar-dasar-programming) - Kelas Terbuka
 * [Koding C++ Dengan Qt](https://leanpub.com/koding-cpp-qt) *(Membutuhkan akun Leanpub atau email yang valid)*
@@ -82,7 +82,7 @@
 * [Mari Belajar Golang](https://www.smashwords.com/books/view/938003) - Risal (PDF)
 
 
-### HTML CSS
+### HTML and CSS
 
 * [Belajar HTML dan CSS](http://www.ariona.net/ebook-belajar-html-dan-css/)
 * [Ebook Belajar HTML Dan CSS Dasar](https://www.malasngoding.com/download-ebook-belajar-html-dan-css-dasar-gratis/)

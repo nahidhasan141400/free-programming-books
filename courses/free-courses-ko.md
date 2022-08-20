@@ -5,7 +5,7 @@
 * [Arduino](#arduino)
 * [ASP.NET](#asp.net)
 * [C/C++](#c/c++)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [Circuit](#circuit)
 * [Deep Learning](#deep-learning)
 * [Flutter](#flutter)
@@ -16,9 +16,9 @@
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [AngularJS](#angularjs)
-  * [Node.js](#node.js)
-  * [React.js](#react.js)
+    * [AngularJS](#angularjs)
+    * [Node.js](#node.js)
+    * [React.js](#react.js)
 * [Kotlin](#kotlin)
 * [Linux](#linux)
 * [Machine Learning](#machine-learning)
@@ -80,7 +80,7 @@
 * [C언어 코딩도장](https://dojang.io/course/view.php?id=2)
 
 
-### C Sharp
+### <a id="csharp"></a>C\#
 
 * [예제로 배우는 C# 강좌](https://www.youtube.com/playlist?list=PL4PkN2EXiuVF3Xl0HNVMdY-_kMM3oyBds)
 
@@ -266,7 +266,7 @@
 * [Web2-CSS](https://www.opentutorials.org/course/3086) (생활코딩)
 * [Web2-Domain name system](https://www.opentutorials.org/course/3276) (생활코딩)
 * [Web2-Home server](https://www.opentutorials.org/course/3265) (생활코딩)
-* [Web2-javascript](https://www.opentutorials.org/course/3085) (생활코딩)
+* [Web2-JavaScript](https://www.opentutorials.org/course/3085) (생활코딩)
 * [Web2-nodejs](https://www.opentutorials.org/course/3332) (생활코딩)
 * [Web2-PHP](https://www.opentutorials.org/course/3130) (생활코딩)
 * [Web2-Python](https://www.opentutorials.org/course/3256) (생활코딩)

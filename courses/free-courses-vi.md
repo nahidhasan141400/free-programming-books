@@ -6,15 +6,15 @@
 * [Bash](#bash)
 * [Bootstrap](#bootstrap)
 * [C](#c)
-* [C#](#c-sharp)
-* [CSS](#css)
+* [C#](#csharp)
+* [Cấu trúc dữ liệu và Giải thuật](#cautrucdulieuvagiaithuat)
 * [Git](#git)
 * [Go](#go)
-* [HTML](#html)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [AngularJS](#angularjs)
-  * [jQuery](#jquery)
+    * [AngularJS](#angularjs)
+    * [jQuery](#jquery)
 * [Machine-Learning](#machine-learning)
 * [MongoDB](#mongodb)
 * [NodeJS](#nodejs)
@@ -27,7 +27,7 @@
 * [SQL](#sql)
 * [Swift](#swift)
 * [TypeScript](#typescript)
-  * [Angular](#angular)
+    * [Angular](#angular)
 * [Unity](#unity)
 * [Vue](#vue)
 * [Wordpress](#wordpress)
@@ -81,7 +81,7 @@
 * [Series Con trỏ trong C](http://diendan.congdongcviet.com/threads/t42977::tim-hieu-ban-chat-cua-con-tro-tu-co-ban-den-nang-cao.cpp) - Cộng đồng C Việt
 
 
-### C-Sharp
+### <a id="csharp"></a>C\#
 
 * [C# Căn Bản](https://www.youtube.com/playlist?list=PL33lvabfss1wUj15ea6W0A-TtDOrWWSRK)
 * [C# Căn Bản](https://www.youtube.com/playlist?list=PLRhlTlpDUWsyOEc-S8ovGVG5L92mZEjVu) - TEDU
@@ -97,15 +97,14 @@
 * [Lập trình ứng dụng Lập Lịch với C# Winform](https://www.youtube.com/playlist?list=PL33lvabfss1zfGzpSGQN7CUoHKS6OQbJc) - Kteam
 
 
-### CSS
+### Cấu trúc dữ liệu và Giải thuật
 
-* [CSS Cơ Bản](https://www.codehub.com.vn/CSS-Co-Ban)
-* [CSS Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w1cnIhegAj5_mE8w_mbYvY4) - Thạch Phạm
+* [Cấu trúc dữ liệu và Giải thuật](https://www.youtube.com/playlist?list=PLoaAbmGPgTSNMAzkKBHkh2mLuBk54II5L) - Ông Dev
 
 
 ### Git
 
-* [Cách sử dụng Git trong THỰC TẾ | Github](https://www.youtube.com/watch?v=O5uT6p6VWjY) - Ông Dev
+* [Cách sử dụng Git trong THỰC TẾ \| Github](https://www.youtube.com/watch?v=O5uT6p6VWjY) - Ông Dev
 * [Git - from Zero to Hero](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-viFVtaVps_h_Emi2wQyE7q) - CodersX
 * [Từ gà tới pro Git và Github trong 20 phút - Tự học Git siêu tốc](https://www.youtube.com/watch?v=1JuYQgpbrW0) - Phạm Huy Hoàng (toidicodedao)
 
@@ -116,8 +115,10 @@
 * [Lập trình Golang](https://www.youtube.com/playlist?list=PLVDJsRQrTUz5icsxSfKdymhghOtLNFn-k) - Code4Func
 
 
-### HTML
+### HTML and CSS
 
+* [CSS Cơ Bản](https://www.codehub.com.vn/CSS-Co-Ban)
+* [CSS Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w1cnIhegAj5_mE8w_mbYvY4) - Thạch Phạm
 * [HTML Cơ Bản](https://www.codehub.com.vn/HTML-Co-Ban)
 * [HTML Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w135_M4YRPzYD9_6tERz3ce) - Thạch Phạm
 
@@ -200,6 +201,7 @@
 * [Học lập trình React JS - Redux - NodeJS qua dự án thực tế](https://www.youtube.com/playlist?list=PLmbxe7ftoDqSNf5yGMhbDNjIZIM5mQ7Ow) - Thầy Nguyễn Đức Việt
 * [Học React Hooks cơ bản (2020)](https://www.youtube.com/playlist?list=PLeS7aZkL6GOsHNoyeEpeL8B1PnbKoQD9m) - Easy Frontend
 * [Học redux cơ bản 2020](https://www.youtube.com/playlist?list=PLeS7aZkL6GOvCz3GiOtvtDXChJRuebb7S) - Easy Frontend
+* [Khóa Học Fullstack SERN (SQL, Express.js, React.js, Node.js) Web Developer](https://youtube.com/playlist?list=PLncHg6Kn2JT6E38Z3kit9Hnif1xC_9VqI) - Hỏi Dân IT
 * [Khóa Học Lập Trình React.js - Redux](https://www.youtube.com/playlist?list=PLJ5qtRQovuEOoKffoCBzTfvzMTTORnoyp) - nghiepuit
 * [Lập trình ReactJS với Redux](https://www.youtube.com/playlist?list=PLzrVYRai0riQFEN586LOz3eMv2Rgy6WXS) - Khoa Phạm
 * [React.js Cơ Bản](https://www.youtube.com/playlist?list=PLzrVYRai0riSPcINVFvaCaM7Ul55DzpLd)

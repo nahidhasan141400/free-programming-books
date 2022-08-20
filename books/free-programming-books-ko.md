@@ -2,36 +2,36 @@
 
 * [Amazon Web Service](#amazon-web-service)
 * [Assembly Language](#assembly-language)
-* [AWK](#AWK)
+* [AWK](#awk)
 * [C](#c)
 * [C++](#cpp)
 * [Docker](#docker)
 * [Elastic](#elastic)
 * [GIT](#git)
 * [Go](#go)
-* [HTML5](#html5)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [Node.js](#nodejs)
-  * [Webpack](#webpack)
+    * [Node.js](#nodejs)
+    * [Webpack](#webpack)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Mathematics](#mathematics)
 * [Operation System](#operation-system)
 * [Perl](#perl)
 * [PHP](#php)
-  * [Laravel](#laravel)
+    * [Laravel](#laravel)
 * [Python](#python)
-  * [Django](#django)
-  * [Flask](#flask)
+    * [Django](#django)
+    * [Flask](#flask)
 * [R](#r)
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Scratch](#scratch)
-* [Sed](#Sed)
+* [Sed](#sed)
 * [Software Engineering](#software-engineering)
-* [Springboot](#Springboot)
+* [Springboot](#springboot)
 * [Unicode](#unicode)
 
 
@@ -57,7 +57,7 @@
 * [BeeJ's Guide to Network Programming - 인터넷 소켓 활용](https://blogofscience.com/Socket_Programming-KLDP.html)
 
 
-<h3 id="cpp">C++</h3>
+### <a id="cpp"></a>C++
 
 * [씹어먹는 C++](https://github.com/kev0960/ModooCode/raw/master/book/cpp/main.pdf) - 이재범 (PDF)
 
@@ -87,7 +87,7 @@
 * [The Little Go Book. 리틀 고 책입니다](https://github.com/byounghoonkim/the-little-go-book/) - Karl Seguin, Byounghoon Kim ([HTML](https://github.com/byounghoonkim/the-little-go-book/blob/master/ko/go.md))
 
 
-### HTML5
+### HTML and CSS
 
 * [HTML5, CSS and JavaScript](http://fromyou.tistory.com/581)
 
@@ -120,7 +120,7 @@
 
 ### Linux
 
-* [리눅스 서버를 다루는 기술](https://thebook.io/006718/)
+* [리눅스 서버를 다루는 기술](https://web.archive.org/web/20220107111504/https://thebook.io/006718/) *(:card_file_box: archived)*
 * [GNOME 배우기](https://sites.google.com/site/gnomekr/home/learning_gnome)
 
 
@@ -225,4 +225,3 @@
 ### Unicode
 
 * [번역 Unicode 이모티콘에 얽힌 이것저것 (이모티콘 표준과 프로그래밍 핸들링)](http://pluu.github.io/blog/android/2020/01/11/unicode-emoji/)
-

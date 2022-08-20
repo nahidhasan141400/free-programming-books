@@ -4,13 +4,12 @@
 * [Android](#android)
 * [C](#c)
 * [C++](#cpp)
-* [CSS](#css)
 * [D](#d)
 * [Dart](#dart)
 * [Git](#git)
 * [Go](#go)
 * [Güvenlik ve Gizlilik](#guvenlik-ve-gizlilik)
-* [Html](#html)
+* [HTML and CSS](#html-and-css)
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -20,7 +19,7 @@
 * [.NET Framework](#net-framework)
 * [PHP](#php)
 * [Python](#python)
-  * [Django](#django)
+    * [Django](#django)
 * [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
@@ -43,18 +42,13 @@
 
 ### C
 
-* [Beej'in Ağ Programlama Kılavuzu - Internet Soketlerini Kullanarak](http://www.belgeler.org/bgnet/bgnet.html) - B. Hall, Çeviren Emre "FZ" Sevinç (HTML)
+* [Beej'in Ağ Programlama Kılavuzu - Internet Soketlerini Kullanarak](http://www.belgeler.org/bgnet/bgnet.html) - Brian "Beej Jorgensen" Hall, Çeviren Emre "FZ" Sevinç (HTML)
 * [GNU C Kütüphanesi Basvuru Klavuzu](http://www.belgeler.org/glibc/glibc.html)
 
 
-<h3 id="cpp">C++</h3>
+### <a id="cpp"></a>C++
 
 * [C++ Dersleri](https://www.yusufsezer.com.tr/cpp-dersleri/) - Yusuf Sezer
-
-
-### CSS
-
-* [CSS Giriş](http://sercaneraslan.com/css/) - Sercan Eraslan
 
 
 ### D
@@ -83,10 +77,11 @@
 * [Özgür Yazılım Derneği Güvenlik Rehberi](https://guvenlik.oyd.org.tr) - Filiz Akin et al.
 
 
-### Html
+### HTML and CSS
 
-* [Html'e Giriş](http://www.htmldersleri.org)
-* [Html'e Yolculuk](https://www.github.com/paufsc/journey-to-html)
+* [CSS Giriş](http://sercaneraslan.com/css/) - Sercan Eraslan
+* [HTML'e Giriş](http://www.htmldersleri.org)
+* [HTML'e Yolculuk](https://www.github.com/paufsc/journey-to-html)
 
 
 ### iOS
@@ -123,7 +118,7 @@
 
 ### Matlab
 
-* [Matlab Programlamaya Giris](https://www.ismailari.com/blog/matlab-programlamaya-giris) - İsmail Arı
+* [Matlab Programlamaya Giris](https://web.archive.org/web/20210727221605/https://ismailari.com/blog/matlab-programlamaya-giris/) - İsmail Arı *(:card_file_box: archived)*
 
 
 ### .NET Framework
@@ -144,8 +139,8 @@
 
 ### Django
 
-* [Django](https://www.pythondersleri.com/p/django-egitim-serisi.html) - Python Dersleri
-* [Django Egitimi](https://gokmengorgen.net/django-notes)
+* [Django](https://web.archive.org/web/20210302105925/https://www.pythondersleri.com/p/django-egitim-serisi.html) - Python Dersleri *(:card_file_box: archived)*
+* [Django Egitimi](https://web.archive.org/web/20210802025720/https://gokmengorgen.net/django-notes/) *(:card_file_box: archived)*
 * [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr) (1.11) (HTML) (:construction: *in process*)
 
 

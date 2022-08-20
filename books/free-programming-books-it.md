@@ -1,40 +1,40 @@
 ### Index
 
 * [0 - Agnostico](#0---agnostico)
-  * [Algoritmi e Strutture Dati](#algoritmi-e-strutture-dati)
-  * [Metodologie di sviluppo del software](#metodologie-di-sviluppo-del-software)
-  * [Open source](#open-source)
-  * [Sistemi](#sistemi)
-  * [Storia dell'informatica](#storia-dellinformatica)
+    * [Algoritmi e Strutture Dati](#algoritmi-e-strutture-dati)
+    * [Metodologie di sviluppo del software](#metodologie-di-sviluppo-del-software)
+    * [Open source](#open-source)
+    * [Sistemi](#sistemi)
+    * [Sistemi di controllo versione](#sistemi-di-controllo-versione)
+    * [Storia dell'informatica](#storia-dellinformatica)
 * [Android](#android)
 * [Assembly Language](#assembly-language)
 * [BASH](#bash)
 * [C](#c)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
-* [CSS](#css)
 * [Database](#database)
-  * [NoSQL](#nosql)
-  * [Relazionali](#relazionali)
-  * [SQL](#sql)
+    * [NoSQL](#nosql)
+    * [Relazionali](#relazionali)
+    * [SQL](#sql)
 * [Git](#git)
 * [Golang](#golang)
-* [HTML](#html)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [AngularJS](#angularjs)
+    * [AngularJS](#angularjs)
 * [Kotlin](#kotlin)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Livecode](#livecode)
 * [Perl](#perl)
 * [PHP](#php)
-  * [Symfony](#symfony)
+    * [Symfony](#symfony)
 * [Python](#python)
-  * [Django](#django)
+    * [Django](#django)
 * [Ruby](#ruby)
 * [TypeScript](#typescript)
-  * [Angular](#angular)
+    * [Angular](#angular)
 * [UML](#uml)
 * [Visual Basic](#visual-basic)
 
@@ -63,6 +63,11 @@
 * [Programmazione di Sistema in Linguaggio C - Esempi ed esercizi](https://www.disi.unige.it/person/DelzannoG/BIOMED/Programmazione-C/dispense_avanzate_C.pdf) - V. Gervasi, S. Pelagatti, S. Ruggieri, F. Scozzari, A. Sperduti (PDF)
 
 
+#### Sistemi di controllo versione
+
+* [Controllo di Versione con Subversion](https://svnbook.red-bean.com/index.it.html) - Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato
+
+
 #### Storia dell'informatica
 
 * [Breve storia dell'informatica](http://apav.it/informatica_file1.pdf) - F. Eugeni (PDF)
@@ -79,6 +84,7 @@
 
 ### Assembly Language
 
+* [La CPU Intel 8086: Architettura e Programmazione Assembly](http://www.ce.unipr.it/didattica/calcolatoriA/free-docs/lucidi.pdf) - Alberto Broggi (PDF)
 * [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
 * [Reverse Engineering per Principianti](https://beginners.re/RE4B-IT.pdf) - Dennis Yurichev, Federico Ramondino, Paolo Stivanin, Fabrizio Bertone, Matteo Sticco, Marco Negro et al. (PDF)
 
@@ -86,31 +92,28 @@
 ### BASH
 
 * [Guida avanzata per la bash](http://www.dmi.unict.it/diraimondo/web/wp-content/uploads/classes/so/mirror-stuff/abs-guide.pdf) (PDF)
+* [La guida di Bash per principianti](http://codex.altervista.org/guidabash/guidabash_1_11.pdf) - Machtelt Garrels (PDF)
+* [Programmazione della shell Bash](https://www.aquilante.net/doc/bash_programming.pdf) - Marco Liverani (PDF)
 
 
 ### C
 
-* [Guida di Beej alla Programmazione di Rete - Usando Socket Internet](http://linguaggioc.altervista.org/dl/GuidaDiBeejAllaProgrammazioneDiRete.pdf) - B. Hall, Tradotto da Fabrizio Pani (PDF)
+* [Guida di Beej alla Programmazione di Rete - Usando Socket Internet](http://linguaggioc.altervista.org/dl/GuidaDiBeejAllaProgrammazioneDiRete.pdf) - Brian "Beej Jorgensen" Hall, Fabrizio Pani (PDF)
 * [Il linguaggio C - Guida pratica alla programmazione](https://eineki.files.wordpress.com/2010/02/guidac.pdf) - (PDF)
-* [Linguaggio C - ANSI C](http://www.itis.pr.it/~dsacco/itis/Olimpiadi-informatica/Libri-di-testo/LinguaggioC-R&K.pdf) - B.W. Kernighan e D.M. Ritchie (PDF)
+* [Linguaggio C - ANSI C](https://web.archive.org/web/20180920221053/http://www.itis.pr.it/~dsacco/itis/Olimpiadi-informatica/Libri-di-testo/LinguaggioC-R&K.pdf) - Brian W. Kernighan, Dennis M. Ritchie (PDF) *(:card_file_box: archived)*
 * [Linguaggio C - Guida alla programmazione](http://www.cbmc.it/~marchettil/Tandem2016/Bellini.pdf) - A. Bellini e A. Guidi _Anno di pubblicazione_ 1999 (PDF)
 * [Tricky C](http://www.dmi.unict.it/diraimondo/web/wp-content/uploads/classes/so/mirror-stuff/Tricky_C.pdf) (PDF)
 
 
-### C Sharp
+### <a id="csharp"></a>C\#
 
 * [ABC# - Guida alla programmazione](http://antoniopelleriti.it/wp-content/uploads/2019/04/ABCsharp-guida-alla-programmazione-in-csharp.pdf) - A. Pelleriti (PDF)
 
 
-<h3 id="cpp">C++</h3>
+### <a id="cpp"></a>C++
 
 * [Corso C++ standard](http://didatticait.altervista.org/programmazione/CPP/CPP-dispense/CORSO_C.pdf) - (PDF)
 * [Il linguaggio C++](https://hpc-forge.cineca.it/files/CoursesDev/public/2012%20Autumn/Introduzione%20alla%20programmazioni%20a%20oggetti%20in%20C++/corsocpp.pdf) - (PDF)
-
-
-### CSS
-
-* [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF)
 
 
 ### Database
@@ -150,7 +153,7 @@
 * [The Little Go Book](https://github.com/francescomalatesta/the-little-go-book-ita) - Karl Seguin, Francesco Malatesta ([HTML](https://github.com/francescomalatesta/the-little-go-book-ita/blob/master/it/go.md))
 
 
-### HTML
+### HTML and CSS
 
 * [Canoro sito](http://canoro.altervista.org/guide/html/GuidaHTML22.pdf) (PDF)
 * [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF)
@@ -162,23 +165,23 @@
 * [Appendici del manuale di Java 9](https://www.hoepli.it/editore/hoepli_file/download_pub/978-88-203-8302-2_Java9-Appendici.pdf) - C. De Sio Cesari (PDF)
 * [Esercitazioni di Spring Boot](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-0-come-impostare-un-progetto/) - M. Cicolella (HTML)
 * [Esercizi del manuale di Java 9](https://www.hoepli.it/editore/hoepli_file/download_pub/978-88-203-8302-2_java9-esercizi.pdf) - C. De Sio Cesari (PDF)
-* [Esercizi di Java Avanzato](http://wpage.unina.it/m.faella/Didattica/LpII/archivio.pdf) - M. Faella  (PDF)
+* [Esercizi di Java Avanzato](http://wpage.unina.it/m.faella/Didattica/LpII/archivio.pdf) - M. Faella (PDF)
 * [Fondamenti di informatica - Java - Eserciziario](http://www.dei.unipd.it/~filira/fi/etc/eserciziario.pdf) (PDF)
 * [Guida a Java 8](http://twiki.di.uniroma1.it/pub/Metod_prog/RS_INFO/lezioni.html)
 * [Guida Java](http://www.html.it/guide/guida-java/?cref=development) (HTML)
 * [Java 7](https://it.wikibooks.org/wiki/Java) - Wikibooks
 * [Java 9 e 10, la guida](https://www.html.it/guide/java-9-la-guida/) (HTML)
-* [Java Mattone dopo Mattone](http://www.digididattica.it/pluginfile.php/2127/mod_resource/content/1/javamattone.pdf) (PDF)
+* [Java Mattone dopo Mattone](http://www.istitutopalatucci.it/libri/scienze/Java%20-%20Mattone%20dopo%20mattone.pdf) - Massimiliano Tarquini (PDF)
 * [Materiale extra online de "Il nuovo Java"](https://www.nuovojava.it/assets/download/nuovoJava-materiale_extra_online.pdf) - Claudio De Sio Cesari (PDF)
 * [Object Oriented && Java 5 (II Edizione)](http://www.claudiodesio.com/download/oo_&&_java_5.zip) - Claudio De Sio Cesari (ZIP)
 
 
 ### JavaScript
 
-* [Corso completo Javascript](https://www.grimaldi.napoli.it/pdf/manuale_unite_224_2_html_1000213680.pdf) - [HTML.it](http://www.html.it) _Anno di pubblicazione_ 2005 (PDF)
+* [Corso completo JavaScript](https://www.grimaldi.napoli.it/pdf/manuale_unite_224_2_html_1000213680.pdf) - [HTML.it](http://www.html.it) _Anno di pubblicazione_ 2005 (PDF)
 * [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF) (Includo anche Jquery)
 * [Guida di riferimento](http://lia.deis.unibo.it/Courses/TecnologieWeb0809/materiale/laboratorio/guide/JScriptRef_Ita.pdf) (PDF)
-* [Guida Javascript](https://www.html.it/guide/guida-javascript-di-base/) - Andrea Chiarelli, Davide Brognoli, Alberto Bottarini, Ilario Valdelli (HTML)
+* [Guida JavaScript](https://www.html.it/guide/guida-javascript-di-base/) - Andrea Chiarelli, Davide Brognoli, Alberto Bottarini, Ilario Valdelli (HTML)
 
 
 #### AngularJS

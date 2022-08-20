@@ -5,23 +5,22 @@
 * [Assembly](#assembly)
 * [Bash](#bash)
 * [C](#c)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Common Lisp](#common-lisp)
 * [Coq](#coq)
-* [CSS](#css)
 * [Haskell](#haskell)
-* [HTML](#html)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [MySQL](#mysql)
 * [Perl](#perl)
 * [PHP](#php)
-  * [Symfony](#symfony)
+    * [Symfony](#symfony)
 * [Prolog](#prolog)
 * [Python](#python)
-  * [Django](#django)
+    * [Django](#django)
 * [Ruby](#ruby)
 * [SQL](#sql)
 
@@ -59,7 +58,7 @@
 
 ### C
 
-* [Beej's Guide to Network Programming - Używanie gniazd internetowych](http://www.asawicki.info/Mirror/Beej_s%20Guide%20to%20Network%20Programming%20PL/bgnet.pdf) - B. Hall, Przełożył Bartosz Zapałowski (PDF)
+* [Beej's Guide to Network Programming - Używanie gniazd internetowych](http://www.asawicki.info/Mirror/Beej_s%20Guide%20to%20Network%20Programming%20PL/bgnet.pdf) - Brian "Beej Jorgensen" Hall, Przełożył Bartosz Zapałowski (PDF)
 * [Kurs C](http://qvazar.pl/kurs-c/kurs-c)
 * [Kurs języka C](http://kurs-c.manifo.com/konfiguracja-srodowiska-298-547) - Mateusz Piaszczak
 * [Kurs programowania w języku ANSI C pod systemem UNIX](http://janek.ae.krakow.pl/wiluszt/zajecia/c/ansic/) - Janusz Przewocki, Adam Narbudowicz
@@ -69,7 +68,7 @@
 * [Wgłąb języka C](http://helion.pl/online/wglab/wglab.zip) (ZIP)
 
 
-### C Sharp
+### <a id="csharp"></a>C\#
 
 * [Darmowy kurs C#](http://kurs.aspnetmvc.pl/Csharp)
 * [Kurs C#](http://zajacmarek.com/kurs-c-sharp/) - Marek Zając
@@ -78,7 +77,7 @@
 * [Wstęp do programowania w C#](http://c-sharp.ue.katowice.pl/ksiazka/c_sharp_wer2_0.pdf) - Anna Kempa, Tomasz Staś (PDF)
 
 
-<h3 id="cpp">C++</h3>
+### <a id="cpp"></a>C++
 
 * [C++](https://pl.wikibooks.org/wiki/C++) - Wikibooks
 * [Język C++ – podstawy programowania](http://www.dz5.pl/ti/cpp/zz_dodatki/kurs_cpp_szczegolowy2.pdf) - Paweł Mikołajczak (PDF)
@@ -92,21 +91,16 @@
 * [Kurs programowania w języku Common Lisp](http://jcubic.pl/lisp_tutorial.php) - Jakub Jankiewicz
 
 
-### CSS
-
-* [Kaskadowe Arkusze Stylów](http://www.kurshtml.edu.pl/css/index.html) - Sławomir Kokłowski
-* [Kurs CSS](https://webref.pl/arena/css/css_index.html) - Arkadiusz Michalski
-* [Moja pierwsza strona internetowa w HTML5 i CSS3](https://ferrante.pl/books/html/) - Damian Wielgosik
-
-
 ### Haskell
 
 * [Haskell](https://pl.wikibooks.org/wiki/Haskell) - Wikibooks
 
 
-### HTML
+### HTML and CSS
 
 * [HTML dla zielonych](http://www.kurshtml.edu.pl/html/zielony.html) - Sławomir Kokłowski
+* [Kaskadowe Arkusze Stylów](http://www.kurshtml.edu.pl/css/index.html) - Sławomir Kokłowski
+* [Kurs CSS](https://webref.pl/arena/css/css_index.html) - Arkadiusz Michalski
 * [KURS HTML](http://www.kurshtml.edu.pl) - Sławomir Kokłowski
 * [Moja pierwsza strona internetowa w HTML5 i CSS3](https://ferrante.pl/books/html/) - Damian Wielgosik
 
