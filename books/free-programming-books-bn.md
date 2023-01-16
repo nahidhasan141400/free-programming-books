@@ -33,6 +33,7 @@
 ### JavaScript
 
 * [হাতেকলমে জাভাস্ক্রিপ্ট: সম্পূর্ণ বাংলায় হাতেকলমে জাভাস্ক্রিপ্ট শিখুন](https://zonayed.js.org) - Zonayed Ahmed (HTML)
+* [হাবলুদের জন্য প্রোগ্রামিং](https://www.rokomari.com/book/112222/habluder-janya-programming) - ঝংকার মাহবুব 
 
 
 ### Machine Learning
